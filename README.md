@@ -69,48 +69,11 @@ My mission is to transform ideas into powerful digital products that combine mod
 * AWS
 * Google Cloud
 
----
-
-## 🏆 Why Choose Me?
-
-✅ 12+ Years of Industry Experience
-
-✅ Creative & Professional Team
-
-✅ Clean, Scalable & Secure Code
-
-✅ On-Time Project Delivery
-
-✅ Client-Focused Communication
-
-✅ Long-Term Technical Support
-
-✅ Innovative and Modern Solutions
-
----
-
-## 📈 My Development Process
-
-1️⃣ Requirement Analysis
-
-2️⃣ UI/UX Planning & Design
-
-3️⃣ Agile Development
-
-4️⃣ Testing & Quality Assurance
-
-5️⃣ Deployment & Launch
-
-6️⃣ Maintenance & Support
-
----
-
 
 ## 🌍 My Vision
 
 To become a trusted global technology partner by delivering reliable, innovative, and future-ready digital solutions that help businesses grow successfully in the modern digital world.
 
----
 
 
 # ✨ "Building Smart Mobile & Web Solutions with Creativity, Innovation, and 12 Years of Excellence."
