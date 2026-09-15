@@ -1,79 +1,30 @@
-# 🚀 Experienced Mobile & Web Application Developer
+# pdmsoft
 
-## 🌟 About Me
-
-I'm a passionate and highly skilled **Mobile & Web Application Developer** with over **12 years of professional experience** delivering innovative, scalable, and high-performance digital solutions for startups, businesses, and enterprises worldwide.
-
-My mission is to transform ideas into powerful digital products that combine modern design, smart functionality, and exceptional user experience.
+Full-stack **mobile & web** developer. I build apps and web products end to end — UI, APIs, and the glue in between.
 
 ---
 
-## 💼 What I Do
+## Focus
 
-### 📱 Mobile Application Development
+| | |
+| --- | --- |
+| **Mobile** | Android · iOS · Flutter · React Native |
+| **Web** | React · Next.js · Vue · Tailwind · dashboards & SaaS |
+| **Backend** | Node.js · Express · Laravel · PHP · Python |
+| **Data / Cloud** | MySQL · PostgreSQL · MongoDB · Firebase · AWS · GCP |
 
-* Android App Development
-* iOS App Development
-* Cross-Platform Apps
-* Flutter & React Native Solutions
-* UI/UX Focused Mobile Experiences
+---
 
-### 🌐 Web Application Development
+## How I work
 
-* Custom Web Applications
-* Responsive Website Development
-* SaaS Platforms
-* Admin Dashboards & Portals
+- Own features across client and server, not just one layer
+- Prefer clear architecture, solid UX, and code that ships
+- Comfortable with startups through longer-running product work
 
-### ⚙️ Backend & API Development
+---
 
-* REST API & GraphQL
-* Cloud-Based Solutions
-* Database Architecture
-* Authentication & Security
-* Server Optimization
+## Projects
 
-## 🛠️ Technologies I Use
+Public showcase repos are next on the list. Until then, this profile is the home base.
 
-### 💻 Frontend
-
-* React.js
-* Next.js
-* Vue.js
-* HTML5
-* CSS3
-* Tailwind CSS
-
-### 📲 Mobile
-
-* Swift
-* Flutter
-* React Native
-* Kotlin
-
-
-### 🔧 Backend
-
-* Node.js
-* Laravel
-* PHP
-* Python
-* Express.js
-
-### 🗄️ Database & Cloud
-
-* MySQL
-* PostgreSQL
-* MongoDB
-* Firebase
-* AWS
-* Google Cloud
-
-
-## 🌍 My Vision
-
-To become a trusted global technology partner by delivering reliable, innovative, and future-ready digital solutions that help businesses grow successfully in the modern digital world.
-
-
-
-# ✨ "Building Smart Mobile & Web Solutions with Creativity, Innovation, and 12 Years of Excellence."
+Want to collaborate or need a mobile/web build? Open an issue on any repo or reach out via GitHub.
